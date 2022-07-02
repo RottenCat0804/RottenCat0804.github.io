@@ -7,3 +7,11 @@
 #
 layout: home
 ---
+
+# Blog
+
+- [Blog](https://rottencat0804.github.io/)
+
+# Projects
+
+- [TickTack-Idle(開発中)](https://rottencat0804.github.io/tick-tack-idle)
